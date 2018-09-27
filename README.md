@@ -6,7 +6,7 @@ accessibility guidelines for WCAG 2.0 content.
 ## How to use
 
 
-1. [Dowload main.min.js](https://github.com/philipe-almeida/aacb_toolbar/master/index.html), and move to your app root directory.
+1. [Dowload aacb.min.js](https://github.com/philipe-almeida/aacb_toolbar/blob/master/aacb.min.js), and move to your app root directory.
 2. For instantiate the toolbar, add the `#accb_toolbar-wrapper` id:
 
     ```html
