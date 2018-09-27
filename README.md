@@ -29,4 +29,4 @@ Check what was changed in the newest version in the [Changelog](https://github.c
   
   ## License
 
-The library is [licensed](https://github.com/philipe-almeida/aacb_toolbar/master/LICENSE) under [The MIT License (MIT)](http://choosealicense.com/licenses/mit/).
+The library is [licensed](https://github.com/philipe-almeida/aacb_toolbar/blob/master/LICENSE) under [The MIT License (MIT)](http://choosealicense.com/licenses/mit/).
