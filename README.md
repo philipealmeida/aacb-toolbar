@@ -14,11 +14,17 @@ accessibility guidelines for WCAG 2.0 content.
     <section aacb-toolbar></section>
 
     ```
+    
+3. The AACB Toolbar, uses HTML 'accesskey', for specifies a shortcut key to activate/focus an element. Three blocks have been setted 
 
 ## Supported browsers
 
 AACB - Toolbar Web Accessibility works in IE10+ and all modern browsers. 
 If you want to support browsers below IE10, for example by using [Modernizr](https://modernizr.com/).
+
+| <img src="https://clipboardjs.com/assets/images/chrome.png" width="48px" height="48px" alt="Chrome logo"> | <img src="https://clipboardjs.com/assets/images/edge.png" width="48px" height="48px" alt="Edge logo"> | <img src="https://clipboardjs.com/assets/images/firefox.png" width="48px" height="48px" alt="Firefox logo"> | <img src="https://clipboardjs.com/assets/images/ie.png" width="48px" height="48px" alt="Internet Explorer logo"> | <img src="https://clipboardjs.com/assets/images/opera.png" width="48px" height="48px" alt="Opera logo"> | <img src="https://clipboardjs.com/assets/images/safari.png" width="48px" height="48px" alt="Safari logo"> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 32+ ✔ | 9+ ✔ | 30+ ✔ | 9+ ✔ | 16+ ✔ | 9+ ✔ |
 
 ## Changelog
 
