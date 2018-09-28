@@ -17,7 +17,8 @@ accessibility guidelines for WCAG 2.0 content.
 
 ## Supported browsers
 
-AACB - Toolbar Web Accessibility works in IE10+ and all modern browsers. If you want to support browsers below IE10, for example by using [Modernizr](https://modernizr.com/).
+AACB - Toolbar Web Accessibility works in IE10+ and all modern browsers. 
+If you want to support browsers below IE10, for example by using [Modernizr](https://modernizr.com/).
 
 ## Changelog
 
