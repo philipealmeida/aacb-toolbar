@@ -6,7 +6,7 @@ accessibility guidelines for WCAG 2.0 content.
 ## How to use
 
 
-1. [Dowload aacb.min.js](https://raw.githubusercontent.com/philipe-almeida/aacb_toolbar/master/aacb.min.js), and move to your app root directory.
+1. [Dowload aacb.min.js](https://raw.githubusercontent.com/philipe-almeida/aacb_toolbar/master/aacb.min.js), and move file to your app directory.
 2. For instantiate the toolbar, add the `aacb-toolbar` attribute:
 
     ```html
@@ -15,7 +15,16 @@ accessibility guidelines for WCAG 2.0 content.
 
     ```
     
-3. The AACB Toolbar, uses HTML 'accesskey', for specifies a shortcut key to activate/focus an element. Three blocks have been setted 
+3. The AACB Toolbar, uses HTML 'accesskey', for specifies a shortcut key to activate/focus an element. Three blocks have been setted:
+
+<!-- TOC depthFrom:2 -->
+
+- #content
+- #mainNav
+- #search
+- #footer
+
+<!-- /TOC -->
 
 ## Supported browsers
 
