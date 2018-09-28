@@ -11,7 +11,7 @@ accessibility guidelines for WCAG 2.0 content.
 
     ```html
 
-    <section id="accb_toolbar-wrapper"></section>
+    <section aacb-toolbar></section>
 
     ```
 
