@@ -15,7 +15,10 @@ accessibility guidelines for WCAG 2.0 content.
 
     ```
     
-3. The AACB Toolbar, uses HTML 'accesskey', for specifies a shortcut key to activate/focus an element. Three blocks have been setted:
+3. The AACB toolbar uses HTML 'accesskey' to specify a shortcut key to activate / focus an element. Enabling direct keyboard navigation of application areas.
+
+To use HTML tags, use the tags in the applications.
+The ids are:
 
 <!-- TOC depthFrom:2 -->
 
