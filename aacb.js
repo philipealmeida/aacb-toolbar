@@ -29,7 +29,7 @@
   
     window.accessibility = app;
     metrics.scale = parseFloat(getCookie(metrics.zoomCookie) || 1);
-    document.querySelector('#accb_toolbar-wrapper')
+    document.querySelector('[aacb-toolbar]')
       .insertAdjacentHTML('beforeend', aacb.html);
   
     var style = document.createElement('style');
