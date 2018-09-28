@@ -6,18 +6,19 @@ accessibility guidelines for WCAG 2.0 content.
 ## How to use
 
 
-1. [Dowload main.min.js](https://github.com/philipe-almeida/aacb_toolbar/master/index.html), and move to your app root directory.
-2. For instantiate the toolbar, add the `#accb_toolbar-wrapper` id:
+1. [Dowload aacb.min.js](https://raw.githubusercontent.com/philipe-almeida/aacb_toolbar/master/aacb.min.js), and move to your app root directory.
+2. For instantiate the toolbar, add the `aacb-toolbar` attribute:
 
     ```html
 
-    <section id="accb_toolbar-wrapper"></section>
+    <section aacb-toolbar></section>
 
     ```
 
 ## Supported browsers
 
-AACB - Toolbar Web Accessibility works in IE10+ and all modern browsers. If you want to support browsers below IE10, for example by using [Modernizr](https://modernizr.com/).
+AACB - Toolbar Web Accessibility works in IE10+ and all modern browsers. 
+If you want to support browsers below IE10, for example by using [Modernizr](https://modernizr.com/).
 
 ## Changelog
 
@@ -29,4 +30,4 @@ Check what was changed in the newest version in the [Changelog](https://github.c
   
   ## License
 
-The library is [licensed](https://github.com/philipe-almeida/aacb_toolbar/master/LICENSE) under [The MIT License (MIT)](http://choosealicense.com/licenses/mit/).
+The library is [licensed](https://github.com/philipe-almeida/aacb_toolbar/blob/master/LICENSE) under [The MIT License (MIT)](http://choosealicense.com/licenses/mit/).
