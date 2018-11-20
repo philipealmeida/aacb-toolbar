@@ -1,6 +1,6 @@
 
 
-# AACB Toolbar Web Accessibility 
+# AACB Web Accessibility Toolbar
 
 An accessibility bar proposal for visual impairments, which meets 
 accessibility guidelines for WCAG 2.0 content.
