@@ -10,7 +10,7 @@ accessibility guidelines for WCAG 2.0 content.
 
 1. [Dowload aacb.min.js](https://raw.githubusercontent.com/philipe-almeida/aacb_toolbar/master/aacb.min.js), and move file to your app directory.
 
-2. Call script to your application before ends tag
+2. Call script to your application before '</body> ends tag
 
     ```html
     ...
