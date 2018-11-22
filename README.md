@@ -10,11 +10,11 @@ accessibility guidelines for WCAG 2.0 content.
 
 1. [Dowload aacb.min.js](https://raw.githubusercontent.com/philipe-almeida/aacb_toolbar/master/aacb.min.js), and move file to your app directory.
 
-2. Call script to your application before '</body> ends tag
+2. Call script to your application before tag body
 
     ```html
-    ...
-            <script text/type="text/javascript"></script>
+            <!-- Call script of AACB Toolbar -->
+            <script type="text/javascript" src="[yourScriptPath]/aacb.min.js"></script>
         </body>
       </html>
     ```
@@ -26,8 +26,9 @@ accessibility guidelines for WCAG 2.0 content.
 <section aacb-toolbar></section>
 
 ```
-    
-4. The AACB toolbar uses HTML 'accesskey' to specify a shortcut key to activate / focus an element. Enabling direct keyboard navigation of application areas.
+
+Optionally, AACB toolbar uses HTML 'accesskey' to specify a shortcut key to activate / focus an element. 
+Enabling direct keyboard navigation of application areas.
 
 Use current ids in the sections of your application, available (content, mainNav, search, footer):
 
